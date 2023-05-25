@@ -1,0 +1,91 @@
+[
+  {
+    "question": "When being followed by a tailgater, which of the following will help you avoid being hit from behind?",
+    "answer": "D",
+    "answer1": "Brake Checking",
+    "answer2": "Changing lanes frequently",
+    "answer3": "Decreasing your following distance",
+    "answer4": "Merging into another lane",
+    "currentQuestion": 1
+  },
+  {
+    "question": "Which of the following factors affect an individual's absorption of alcohol?",
+    "answer": "A",
+    "answer1": "Weight",
+    "answer2": "Height",
+    "answer3": "Intelligence",
+    "answer4": "Age",
+    "currentQuestion": 2
+  },
+  {
+    "question": "Which of these statements is true about changing lanes?",
+    "answer": "C",
+    "answer1": "You do not need to use your turn signal.",
+    "answer2": "You only need to turn and look over your right shoulder for lane changes to the right or left.",
+    "answer3": "Which of these statements is true about changing lanes?",
+    "answer4": "Vehicles with two outside mirrors do not have blind spots",
+    "currentQuestion": 3
+  },
+  {
+    "question": "Which of these 3 do you need to know for your pre driving check?",
+    "answer": "D",
+    "answer1": "Headlight Controls",
+    "answer2": "Windshield Wiper Controls",
+    "answer3": "Hazard Lights",
+    "answer4": "All of the above",
+    "currentQuestion": 4
+  },
+  {
+    "question": "A broken yellow centerline means that:",
+    "answer": "B",
+    "answer1": "Passing on the right is permitted when the way ahead is clear.",
+    "answer2": "Passing on the left is permitted when the way ahead is clear.",
+    "answer3": "Passing is not permitted.",
+    "answer4": "You can drive on both sides of the road.",
+    "currentQuestion": 5
+  },
+  {
+    "question": "You want to make a right turn at an upcoming intersection. You should slow down and:",
+    "answer": "A",
+    "answer1": "Signal for 100 feet before turning.",
+    "answer2": "Avoid driving in the bicycle lane.",
+    "answer3": "Move toward the left side of your lane.",
+    "answer4": "Get in the middle lane before your turn.",
+    "currentQuestion": 6
+  },
+  {
+    "question": "When driving at night on a dimly lit street, you should:",
+    "answer": "A",
+    "answer1": "Drive slowly enough that you can stop within the area illuminated by your headlights.",
+    "answer2": "Turn on your high beam headlights to better see the vehicles ahead of you.",
+    "answer3": "Keep the instrument panel lights bright to be more visible to other drivers.",
+    "answer4": "All of the above",
+    "currentQuestion": 7
+  },{
+  "question": "Keep the instrument panel lights bright to be more visible to other drivers.",
+  "answer": "C",
+  "answer1": "Only illegal drugs can impair your driving.",
+  "answer2": "Any prescription drug is safe to use if you don't feel drowsy.",
+  "answer3": "Even over-the-counter drugs can impair your driving.",
+  "answer4": "Drugs cannot impair your driving.",
+  "currentQuestion": 8
+},
+  {
+    "question": "A person may legally ride in the back of a pickup truck when:",
+    "answer": "B",
+    "answer1": "The back of the pickup is covered with a camper shell.",
+    "answer2": "In a secured seat and while using an approved safety belt.",
+    "answer3": "The sides of the pickup bed are at least 24 inches high.",
+    "answer4": "When driving in certain states.",
+    "currentQuestion": 9
+  },
+  {
+    "question": "You are approaching an intersection at the posted speed limit when the signal turns yellow. You should:",
+    "answer": "D",
+    "answer1": "Speed up and make the light.",
+    "answer2": "Slow down and proceed through the intersection without caution.",
+    "answer3": "Speed up to cross the intersection before the light turns red.",
+    "answer4": "Stop before entering the intersection, if you can do so safely.",
+    "currentQuestion": 10
+  }
+]

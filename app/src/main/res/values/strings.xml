@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Driving Quiz App</string>
+    <string name="quiz1key">quiz1key</string>
+    <string name="quiz2key">quiz2key</string>
+    <string name="quiz3key">quiz3key</string>
+    <string name="preferenceFileKey">quiz shared prefs</string>
+</resources>

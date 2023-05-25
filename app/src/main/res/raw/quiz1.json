@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Is this quiz going to be hard?",
+    "answer": "A",
+    "answer1": "not really no",
+    "answer2": "i hope not",
+    "answer3": "probably",
+    "answer4": "definitely",
+    "currentQuestion": 1
+  },
+  {
+    "question": "In which of the following scenarios should your wheels not be pointed straight ahead?",
+    "answer": "B",
+    "answer1": "When waiting to make a left turn at a traffic light.",
+    "answer2": "When parked on a hill or sloping driveway.",
+    "answer3": "When parked on the side of a level roadway where there is no curb.",
+    "answer4": "When parallel parking.",
+    "currentQuestion": 2
+  },
+  {
+    "question": "When driving in fog, rain, or snow, use:",
+    "answer": "A",
+    "answer1": "Low beams.",
+    "answer2": "High beams.",
+    "answer3": "Fog lights only.",
+    "answer4": "Cabin Lights",
+    "currentQuestion": 3
+  },
+  {
+    "question": "U-turns in residential districts are legal:",
+    "answer": "C",
+    "answer1": "On a one-way street on a green arrow.",
+    "answer2": "Across two sets of solid double, yellow lines.",
+    "answer3": "When there are no vehicles approaching nearby.",
+    "answer4": "On a red light.",
+    "currentQuestion": 4
+  },
+  {
+  "question": "U-turns in residential districts are legal:",
+  "answer": "C",
+  "answer1": "On a one-way street on a green arrow.",
+  "answer2": "Across two sets of solid double, yellow lines.",
+  "answer3": "When there are no vehicles approaching nearby.",
+  "answer4": "On a red light.",
+  "currentQuestion": 5
+  },
+  {
+  "question": "If you see orange construction signs and cones on a freeway, you must:",
+  "answer": "D",
+  "answer1": "Ignore it and keep maintain your speed.",
+  "answer2": "Slow down because the lane ends ahead.",
+  "answer3": "Change lanes and maintain your current speed.",
+  "answer4": "Be prepared for workers and equipment ahead",
+  "currentQuestion": 6
+  },
+  {
+  "question": "When you enter traffic from a stop (away from the curb), you:",
+  "answer": "A",
+  "answer1": "Need a large enough gap to get up to the speed of traffic.",
+  "answer2": "Should drive slower than other traffic for 200 feet.",
+  "answer3": "Should wait for the first two vehicles to pass, then drive into the lane.",
+  "answer4": "Wait until there is no traffic to go.",
+  "currentQuestion": 7
+  },
+  {
+  "question": "To turn left from a multilane one-way street onto a one-way street, you should start your turn from:",
+  "answer": "B",
+  "answer1": "Any lane (as long as it is safe).",
+  "answer2": "The lane closest to the left curb.",
+  "answer3": "The lane in the center of the road.",
+  "answer4": "The far right lane.",
+  "currentQuestion": 8
+  },
+  {
+  "question": "There is no crosswalk and you see a pedestrian crossing your lane ahead. You should:",
+  "answer": "B",
+  "answer1": "Slow down as you pass him/her.",
+  "answer2": "Stop and let him/her finish crossing the street.",
+  "answer3": "Make eye contact and then pass him/her.",
+  "answer4": "Hit them as you have the right of way.",
+  "currentQuestion": 9
+  },
+  {
+  "question": "When making a right turn from a highway with two lanes in your direction, you may turn from:",
+  "answer": "D",
+  "answer1": "The far left lane.",
+  "answer2": "Either lane, depending on oncoming traffic.",
+  "answer3": "Either lane, depending on oncoming traffic.",
+  "answer4": "The lane nearest the curb or edge of the roadway.",
+  "currentQuestion": 10
+  }
+]
