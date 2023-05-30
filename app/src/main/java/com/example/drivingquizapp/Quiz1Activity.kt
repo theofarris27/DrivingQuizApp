@@ -37,27 +37,24 @@ class Quiz1Activity: AppCompatActivity() {
         binding.textViewAnswer4.text = "D: " + quiz.getSample("answer4")
 
         binding.buttonA.setOnClickListener{
-            quiz.checkTrue('A')
+
             binding.progressBar.progress = quiz.currentQuestion
-            endChecker()
+            endChecker('A')
 
         }
         binding.buttonB.setOnClickListener{
-            quiz.checkTrue('B')
             binding.progressBar.progress = quiz.currentQuestion
-            endChecker()
+            endChecker('B')
 
         }
         binding.buttonC.setOnClickListener{
-            quiz.checkTrue('C')
             binding.progressBar.progress = quiz.currentQuestion
-            endChecker()
+            endChecker('C')
 
         }
         binding.buttonD.setOnClickListener{
-            quiz.checkTrue('D')
             binding.progressBar.progress = quiz.currentQuestion
-            endChecker()
+            endChecker('D')
         }
 
     }
@@ -76,7 +73,8 @@ class Quiz1Activity: AppCompatActivity() {
         quiz = Quiz(questions)
     }
 
-    private fun endChecker(){
+    private fun endChecker(input: Char){
+        quiz.checkTrue(input)
         if(quiz.checkEnd()) {
             if(quiz.passed()){
                 binding.textViewQuestion.text = "Final Score: " + quiz.score + ". You Passed! Congrats!"
@@ -103,13 +101,13 @@ class Quiz1Activity: AppCompatActivity() {
         }
         else{
            Log.d("in the else","we get to this point")
-            quiz.currentQuestion ++
             binding.textViewQuestion.text = quiz.updateText()
-            binding.textViewQuestionNum.text = "#" + quiz.currentQuestion.toString()
+            binding.textViewQuestionNum.text =  quiz.currentQuestion.toString()
             binding.textViewAnswer1.text = "A: " + quiz.getSample("answer1")
             binding.textViewAnswer2.text = "B: " + quiz.getSample("answer2")
             binding.textViewAnswer3.text = "C: " + quiz.getSample("answer3")
             binding.textViewAnswer4.text = "D: " + quiz.getSample("answer4")
+            Log.d("this happens again", "after the update")
         }
     }
 

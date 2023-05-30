@@ -104,7 +104,6 @@ class Quiz3Activity: AppCompatActivity() {
                 finish()}
         }
         else{
-            quiz.currentQuestion ++
             Picasso.get().load(quiz.returnImage()).into(binding.imageViewUrl)
             binding.textViewQuestion.text = quiz.updateText()
             binding.textViewQuestionNum.text = "#" + quiz.currentQuestion.toString()

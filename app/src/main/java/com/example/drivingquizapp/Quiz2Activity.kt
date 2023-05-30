@@ -101,7 +101,6 @@ class Quiz2Activity: AppCompatActivity() {
                 finish()}
         }
         else{
-            quiz.currentQuestion ++
             binding.textViewQuestion.text = quiz.updateText()
             binding.textViewQuestionNum.text = "#" + quiz.currentQuestion.toString()
             binding.textViewAnswer1.text = "A: " + quiz.getSample("answer1")
